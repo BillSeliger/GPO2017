@@ -1,5 +1,6 @@
-# US GPO Medicare & You 
+# US GPO Medicare & You 2017
 # Assignment optimziation model written by Bill Seliger
+# Linear Decision model assuming Handbooks can't be split across plants
 
 setwd("C:/Users/rr046302/Documents/Customers/GPO/Medicare & You 2017/Mapping Data")
 
